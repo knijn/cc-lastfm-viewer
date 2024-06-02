@@ -1,0 +1,7 @@
+return {
+  user = "knijnemma",
+  api_key = "LASTFM_KEY_HERE",
+  interval = 5,
+  imgpush_api = "https://img.knijn.one",
+  colorResolution = 50,
+}
